@@ -1,12 +1,6 @@
 # GeoGAN
 
-This is our PyTorch implementation for both unpaired and paired image-to-image translation. It is still under active development.
-
-The code was written by [Jun-Yan Zhu](https://github.com/junyanz) and [Taesung Park](https://github.com/taesung89), and supported by [Tongzhou Wang](https://ssnl.github.io/).
-
-This PyTorch implementation produces results comparable to or better than our original Torch software. If you would like to reproduce the exact same results as in the papers, check out the original [CycleGAN Torch](https://github.com/junyanz/CycleGAN) and [pix2pix Torch](https://github.com/phillipi/pix2pix) code
-
-**Note**: The current software works well with PyTorch 0.4. Check out the older [branch](https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix/tree/pytorch0.3.1) that supports PyTorch 0.1-0.3.
+This is PyTorch implementation of a GeoGAN network for for dense labeling of RGB+IR optical imagery. The code is based on the [pytorch-CycleGAN-and-pix2pix](https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix)
 
 **GeoGAN: [Project](http://www.zefirus.org/GeoGAN) |  [Paper](http://www.zefirus.org/GeoGAN)**
 <img src="imgs/cover.jpg" width="800"/>
