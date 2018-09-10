@@ -1,7 +1,3 @@
-<img src='imgs/cover.jpg' align="right" width=384>
-
-<br><br><br>
-
 # GeoGAN
 
 This is our PyTorch implementation for both unpaired and paired image-to-image translation. It is still under active development.
